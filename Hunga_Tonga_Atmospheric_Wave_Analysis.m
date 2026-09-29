@@ -757,7 +757,7 @@ exportVectorFigure(fig6, export_folder, 'figure6_section_plot', export_formats);
 target_ranks = [1 8 15 22 29 35 42 49 56 63 70 77 84 91 98 104 111 118 125 132 139 146 153 160 167 173 180 187 194 201];
 save_fn_list = cell(length(target_ranks), 1);
 for k = 1:length(target_ranks)
-    save_fn_list{k} = sprintf('picks_rank%d.mat', target_ranks(k));
+    save_fn_list{k} = fullfile('picks', sprintf('picks_rank%d.mat', target_ranks(k)));
 end
 analyze_celerity(save_fn_list, export_folder, export_formats);
 
