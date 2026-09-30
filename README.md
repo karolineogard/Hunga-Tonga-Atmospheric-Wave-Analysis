@@ -69,7 +69,7 @@ and $b$ is an intercept term.
 ## Results
 
 ### Station distribution
-```math<img width="609" height="345" alt="figure1_station_map" src="https://github.com/user-attachments/assets/da9bb242-8c0c-4d10-af58-c1ffc3a6abab" />
+math<img width="609" height="345" alt="figure1_station_map" src="https://github.com/user-attachments/assets/da9bb242-8c0c-4d10-af58-c1ffc3a6abab" />
 
 
 
