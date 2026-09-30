@@ -69,7 +69,7 @@ and $b$ is an intercept term.
 ## Results
 
 ### Station distribution
-math<img width="609" height="345" alt="figure1_station_map" src="https://github.com/user-attachments/assets/da9bb242-8c0c-4d10-af58-c1ffc3a6abab" />
+<img width="609" height="345" alt="figure1_station_map" src="https://github.com/user-attachments/assets/da9bb242-8c0c-4d10-af58-c1ffc3a6abab" />
 
 
 
@@ -79,7 +79,8 @@ math<img width="609" height="345" alt="figure1_station_map" src="https://github.
 
 *Bandpass-filtered recordings shown as a function of time and distance from
 Hunga Tonga.*
-![section-plot-bandpass](https://github.com/user-attachments/assets/f43362ad-48c0-4de4-bf1c-4f5cd6932122)
+<img width="1246" height="823" alt="section-plot-bandpass" src="https://github.com/user-attachments/assets/a38553df-96e6-442f-99d9-c3dbefe146e2" />
+
 
 
 
